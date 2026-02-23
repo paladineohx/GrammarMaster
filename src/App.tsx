@@ -162,7 +162,7 @@ export default function App() {
               <div className="absolute bottom-[-10%] right-[-10%] w-60 h-60 rounded-full bg-white blur-3xl"></div>
             </div>
             <GraduationCap className="w-16 h-16 mx-auto mb-6 opacity-90" />
-            <h1 className="text-4xl font-black tracking-tight mb-2">GrammarMaster</h1>
+            <h1 className="text-4xl font-black tracking-tight mb-2">语法大师</h1>
             <p className="text-emerald-100 font-medium tracking-wide uppercase text-sm">初中英语语法填空互动练习</p>
           </div>
 
@@ -368,7 +368,7 @@ export default function App() {
             <GraduationCap className="w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight">GrammarMaster</h1>
+            <h1 className="text-xl font-bold tracking-tight">语法大师</h1>
             <p className="text-xs text-gray-500 font-medium uppercase tracking-wider">初中英语语法填空</p>
           </div>
         </div>
